@@ -23,6 +23,8 @@
   ![alt text](text_slugs.png)
 - 三种小鱼分别为:
   ![alt text](image_fishes.png)
+- 海蛞蝓重绘
+  ![alt text](image_seaFloaty.png)
 
 
 # 敌人
@@ -31,3 +33,10 @@
   可能加入穿戴灾厄长袍或金源套时激怒的彩蛋
 - 是在焚海事件中阵亡的阿尔梅里斯士兵的遗体*来源确认*
 - 有一张演示图*来源确认*
+- 暂时还没有画的几种"大家伙":肉食虾,两种新的鲨,活着的菌生蟹(更小的变种),海德拉
+  ![alt text](text_bigGuys.png)
+  
+# 更新时间
+- 可能今年内都不会出(准确度?它们自己都不一定知道)
+  ![alt text](text_updateTime.png)
+  ![alt text](text_updateTime2.png)
