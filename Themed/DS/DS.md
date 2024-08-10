@@ -6,3 +6,5 @@
   ![alt text](image_Bayle.png)
 - 黄沙恶虫将不再像灾虫
   ![alt text](text_DSSon.png)
+- 嘴部(8/10)
+  ![alt text](image_DSMouth.png)

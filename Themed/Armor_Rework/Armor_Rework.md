@@ -16,3 +16,12 @@
   或者咒术回战的"八握剣異戒神将魔虚羅"
   ![alt text](image_mahoraga.png)
   ~~三角你学点好的吧...~~
+
+## 天蓝套
+疑似天蓝套新贴图(8/10)
+请自行做阅读理解(我没看懂)
+![alt text](image_aerospec.png)
+![alt text](text_aerospec.png)
+![alt text](text_aerospec2.png)
+![alt text](text_aerospec3.png)
+![alt text](text_aerospec4.png)

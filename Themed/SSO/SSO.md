@@ -7,6 +7,7 @@
 # 生物
 概览图
 ![alt text](image_SSOCreatures.png)
+![alt text](image_SSOCreaturesWithName.png)
 ## 风暴蚁狮
 - 风暴蚁狮将会有四种变种，分别对应四种蚁狮变种
   ![风暴蚁狮聊天](text_antlion.png)
