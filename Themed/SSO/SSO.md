@@ -4,6 +4,12 @@
 - 将会有3个miniboss,包括重做后的巨像蛤,卧龙海马.*来源确认*
 - 会彻底平衡召唤师职业,并且有新的鞭子和饰品. *来源确认*
 
+# 大体进展
+- 有3把新鞭子,以及摸了(8/14)
+  ![alt text](text_overall.png)
+- 群系生成已经接近完成(8/8)
+  ![alt text](text_generation.png)
+
 # 生物
 概览图
 ![alt text](image_SSOCreatures.png)
