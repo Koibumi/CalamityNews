@@ -11,7 +11,7 @@
   ![alt text](text_generation.png)
 
 # 生物
-概览图(8/20)
+概览图(8/27)
 ![alt text](image_SSOCreaturesWithName.png)
 ## 风暴蚁狮
 - 风暴蚁狮将会有四种变种，分别对应四种蚁狮变种
@@ -27,10 +27,6 @@
   ![alt text](text_ghostBell.png)
 - 海兔有被动和攻击性两种
   ![alt text](text_slugs.png)
-- 三种小鱼分别为:
-  ![alt text](image_fishes.png)
-- 海蛞蝓重绘
-  ![alt text](image_seaFloaty.png)
 
 
 # 敌人
