@@ -12,3 +12,5 @@
 - 新贴图和新旧贴图对比在站内已经有视频(官号&汝不见鬼)
 - 一阶段贴图更新(8/14)
   ![alt text](image_DoGP1.png)
+- 二阶段贴图更新(9/3)
+  ![alt text](image_DoGP2.png)
