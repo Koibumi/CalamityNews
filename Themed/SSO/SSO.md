@@ -27,6 +27,9 @@
   ![alt text](text_ghostBell.png)
 - 海兔有被动和攻击性两种
   ![alt text](text_slugs.png)
+- 每种小鱼有不同的游泳动画,已经放出一种(9/6)
+  ![alt text](text_guppy.png)
+  ![alt text](elfiishe.gif)
 
 
 # 敌人
@@ -43,3 +46,10 @@
   ![alt text](text_updateTime.png)
   ![alt text](text_updateTime2.png)
   ![alt text](text_progressAug8.png)(8/8)
+
+# 其他
+- 海神Tyrian:会加入提到他的传说和(可能的)雕像(雕像是旧闻),以及一把武器(9/6)
+  ![alt text](image_TyrianStatue.png)
+  ![alt text](text_Tyrian.png)
+- 沉沦海的部分内容将会变成卧龙海马锁而非荒灾锁(再次确认了卧龙海马MiniBoss的存在)(9/6)
+  ![alt text](text_cnidrionLock.png)

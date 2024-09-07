@@ -3,3 +3,7 @@
   ![alt text](image_virulentSlime.png)
 - ?
   ![alt text](image_virulentSpiky.png)
+- 斯塔提斯现在是西格纳斯的奴隶,如果你战胜了西格纳斯,你将能够解救斯塔提斯(9/6)
+  ![alt text](text_signus.png)
+- Heart和三角的Boss重绘分工(9/7)
+  ![alt text](text_bossResprites.png)
