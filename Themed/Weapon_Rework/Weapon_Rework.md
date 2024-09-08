@@ -1,5 +1,7 @@
 # General
 基本上asfl都会搬运
+- 劳模Xyk自从小南瓜更新后,已经制作了32个重做了
+  ![alt text](text_Xyk2.png)
 
 - 衍曜旋刃(9/3)
   ![alt text](image_refractionRotor.png)
@@ -12,3 +14,18 @@
 - 绝路P(9/3)
   从神吞后移动到石巨人后
   ![alt text](image_rubicoP.png)
+- 元素锯子(译名呢???)(9/6)
+  ![alt text](image_elementalSaw.gif)
+  ![alt text](text_elementalSaw.png)
+- 氦闪(9/7)
+  ![alt text](image_heliumFlash.png)
+- 制裁大剑和携序之剑也被重做(但是暂无视频)(9/7)
+  ![alt text](text_Xyk.png)
+- 凝胶波刃和梭鱼枪也被重做了(9/7)
+  ![alt text](text_Shayy.png)
+  凝胶波刃的弹幕更大,更快,能穿透,Shayy认为它针对肉山很强(9/7)
+  ![alt text](text_geliticBlade.png)
+  梭鱼枪现在有4或5个射弹,而且伤害更快,有一定偏移(旧闻:它已经被移到月后)(9/7)
+  ![alt text](text_barracuda.png)
+- 鬼妖村正的贴图已经就位,Shayy计划做一个演示视频(注:Shayy是社交媒体的运营者,之前的预告片也是他做的)(9/7)
+  ![alt text](text_murasama.png)

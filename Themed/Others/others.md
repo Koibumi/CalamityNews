@@ -41,3 +41,7 @@
     ![alt text](image_ceaselessVoidBar.png)
   + 克眼
     ![alt text](image_EoCBar.png)
+
+# 工具
+- 计划给宇宙锭和金源锭设计工具(9/2)
+  ![alt text](text_tools.png)
