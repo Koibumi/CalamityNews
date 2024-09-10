@@ -7,3 +7,13 @@
   ![alt text](text_signus.png)
 - Heart和三角的Boss重绘分工(9/7)
   ![alt text](text_bossResprites.png)
+- 克脑的那一堆减益会给GFB(9/9)
+  ![alt text](text_BoCGFB.jpg)
+- 沉沦海更新除了沉沦海和荒漠灾虫之外,还会有史莱姆神,老猪,Foveanator的内容(9/8)
+  ![alt text](text_updatePlan.png)
+- 山猪也说犽戎重绘可能放出,但是不少开发者反对这一点(9/9)  
+  AngelVA和Triangle认为进度还不够  
+  ![alt text](text_yharon.jpg)
+  ![alt text](text_yharon2.jpg)
+  enamoured(犽戎的动画师)认为不应当在这一次更新放出(主题不符等)  
+  ![alt text](text_yharon3.jpg)

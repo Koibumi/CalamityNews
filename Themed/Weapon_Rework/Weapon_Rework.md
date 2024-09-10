@@ -29,3 +29,5 @@
   ![alt text](text_barracuda.png)
 - 鬼妖村正的贴图已经就位,Shayy计划做一个演示视频(注:Shayy是社交媒体的运营者,之前的预告片也是他做的)(9/7)
   ![alt text](text_murasama.png)
+- 战术瘟疫引擎没有像其他月后瘟疫武器那样被移除,而是被重新设计为夜明系列(9/9)
+  ![alt text](text_TPE.jpg)

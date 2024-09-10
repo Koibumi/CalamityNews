@@ -1,6 +1,6 @@
 # General
 
-- (9/8)
+- (9/10)
   ![alt text](image_oldDuke.png)
 - 老猪的设计参考,会给它日本龙的胡须等细节(因为它们都与天气控制相关)(9/4)
   ![alt text](text_oldDukeDesign.png)
@@ -12,5 +12,9 @@
   ![alt text](text_oldDukeGFB.png)
 - 老猪可能不会迎来彻底重做，更多的可能是视觉调整(9/7)
   ![alt text](text_oldDuke.png)
-- 三阶段老猪会被大量核火焰烧化(9/5)
-  ![alt text](text_oldDukeP3.png)
+- 老猪的二三阶段将有不同的贴图(9/9)  
+  二阶段眼睛会有强烈的核辐射发光(和许多静脉射出来???)  
+  三阶段头和翅膀会被硫磺(核?)火焰烧化  
+  ![alt text](text_oldDukeP2P3.jpg)
+- 未知剧透(9/9)
+  ![alt text](text_dialoguePanel.jpg)
