@@ -13,6 +13,8 @@
   ![alt text](text_overall.png)
 - 群系生成已经接近完成(8/8)
   ![alt text](text_generation.png)
+- 群系生成和生物是进度最快的(9/11)
+  ![alt text](text_progression.jpg)
 
 # 生物
 概览图(8/27)

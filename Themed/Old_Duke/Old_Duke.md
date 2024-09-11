@@ -1,6 +1,6 @@
 # General
 
-- (9/10)
+- (9/11)
   ![alt text](image_oldDuke.png)
 - 老猪的设计参考,会给它日本龙的胡须等细节(因为它们都与天气控制相关)(9/4)
   ![alt text](text_oldDukeDesign.png)
@@ -18,3 +18,6 @@
   ![alt text](text_oldDukeP2P3.jpg)
 - 未知剧透(9/9)
   ![alt text](text_dialoguePanel.jpg)
+- 老猪的掉落物"猎龙者"系列将针对犽戎(9/11)  
+  其中猎龙者套将会取代血炎盗贼套
+  ![alt text](text_dragonHunter.jpg)
