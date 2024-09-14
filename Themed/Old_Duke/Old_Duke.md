@@ -1,6 +1,6 @@
 # General
 
-- (9/11)
+- (9/14)
   ![alt text](image_oldDuke.png)
 - 老猪的设计参考,会给它日本龙的胡须等细节(因为它们都与天气控制相关)(9/4)
   ![alt text](text_oldDukeDesign.png)
