@@ -1,8 +1,6 @@
 # General
-- 将是下一次主要更新,但是更新时间未知(七月已经提到了)
-- 将会在沉沦海和沙漠之间加入新的过渡生物群系,以不死战士为主要敌人,目前被Triangle称作"the shores",下面采用这个称呼. 
+- 将会在沉沦海和沙漠之间加入新的过渡生物群系,以不死战士为主要敌人,这个群系被简称为"The Shores",下面简写成海岸. 
 - 将会有3个miniboss,包括重做后的巨像蛤,卧龙海马.*来源确认*
-- 会彻底平衡召唤师职业,并且有新的鞭子和饰品. *来源确认*
 - 沉沦海的大小大大增加了(9/7)
   ![alt text](text_scale.png)
 - 会包括一个"蛤区"和一个岩浆区(9/2)
@@ -29,13 +27,13 @@
   ![alt text](text_shoreCreatures.png)
 
 ## 沉沦海生物
-- 骸骨制的水母状生物将出现在the shores
+- 骸骨制的水母状生物将出现在海岸(8/1)
   ![Skull jellyfish聊天](text_skullJellyfish.png)
-- 水母是在焚海事件死者的灵魂变的
+- 水母是在焚海事件死者的灵魂变的(8/1)
   ![alt text](image_ghostBell.png)
-- 如果你冒犯遗体或墓碑,水母会被激怒并攻击你
+- 如果你冒犯遗体或墓碑,水母会被激怒并攻击你(8/1)
   ![alt text](text_ghostBell.png)
-- 海兔有被动和攻击性两种
+- 海兔有被动和攻击性两种(8/1)
   ![alt text](text_slugs.png)
 - 每种小鱼有不同的游泳动画,已经放出一种(9/6)
   ![alt text](text_guppy.png)
