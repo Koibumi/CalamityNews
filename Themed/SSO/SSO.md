@@ -38,6 +38,8 @@
 - 每种小鱼有不同的游泳动画,已经放出一种(9/6)
   ![alt text](text_guppy.png)
   ![alt text](elfiishe.gif)
+- 疑似是沉沦海的新敌怪(9/18)
+  ![alt text](image_fatFish.png)
 
 
 # 敌人

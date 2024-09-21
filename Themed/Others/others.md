@@ -10,9 +10,6 @@
 ![alt text](image_pinkBiome.png)
 - 随世界生成
 
-# 硫磺海新背景(9/3)
-![alt text](image_sulfurSeaBackground.png)
-
 # UI重新设计(9/3)
 - 队友条
   ![alt text](image_teammateBar.png)
@@ -45,3 +42,7 @@
 # 工具
 - 计划给宇宙锭和金源锭设计工具(9/2)
   ![alt text](text_tools.png)
+
+# 其他更新计划
+- 沉沦海完成后可能会有永恒和亵渎迷你群落(9/21)
+  ![alt text](text_minibiome.png)

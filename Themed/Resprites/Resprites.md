@@ -13,3 +13,7 @@
   ![alt text](image_bubonicRound.png)
 - 瘟疫细胞罐
   ![alt text](image_plaugeCellCanister.png)
+
+## 元素系列
+- Cristian Mihaii给元素之斧的设计图(9/21)
+  ![alt text](image_elementalAxe.png)

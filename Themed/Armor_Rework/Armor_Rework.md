@@ -36,3 +36,7 @@
 ![alt text](text_aerospec2.png)
 ![alt text](text_aerospec3.png)
 ![alt text](text_aerospec4.png)
+
+## 掠夺者套
+Triangle称完成老猪后可能着手设计掠夺者套(9/18)(文字太多,文案如果要采用,请自行翻译,摸了)
+![alt text](text_reaver.jpg)

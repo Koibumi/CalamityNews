@@ -33,3 +33,7 @@
   ![alt text](<ULTIMATE Murasama Showcase.gif>)
 - 战术瘟疫引擎没有像其他月后瘟疫武器那样被移除,而是被重新设计为夜明系列(9/9)
   ![alt text](text_TPE.jpg)
+- Xyk近期可能着手磁极异变(9/21)
+  ![alt text](text_magnomally.jpg)
+- 再之后可能着手星神之杀和耀界之光(9/21)
+  ![alt text](text_exoWeapons.jpg)
