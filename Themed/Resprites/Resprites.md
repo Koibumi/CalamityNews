@@ -19,3 +19,5 @@
 ## 元素系列
 - Cristian Mihaii给元素系列武器的设计图(9/22)
   ![alt text](image_elemental.png)
+- Triangle为湮灭千星绘制的新贴图(9/23)
+  ![alt text](image_elementalBow.png)

@@ -7,7 +7,7 @@
   ![alt text](text_auric_tesla2.jpg)
 
 ## 金源套
-![alt text](image_auric_tesla.png)
+![alt text](image_auricTesla.png)(9/23)
 ![alt text](text_auric_tesla.png)
 从左到右:法师,盗贼,召唤,战士,射手
 - 金源套会有自己的技能而非下位的组合(9/11)

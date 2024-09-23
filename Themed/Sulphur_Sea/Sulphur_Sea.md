@@ -4,5 +4,5 @@
 ![alt text](image_sulfurSeaBackground.png)
 
 ## 生物
-- Triangle捣碎鳄(9/21)
+- Triangle捣碎鳄(9/23)
   ![alt text](imgae_trasher.png)
