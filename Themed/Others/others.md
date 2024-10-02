@@ -6,9 +6,13 @@
 - 硫火崖会有岩浆泡,滴落岩浆等的新特效(8/6)
   ![alt text](./CragsLavaEffects.gif)
 
-# 不知道名字的群系(8/26)
-![alt text](image_pinkBiome.png)
-- 随世界生成
+# 不知道名字的群系
+- ![alt text](image_pinkBiome.png)(8/26)
+  随世界生成
+- 疑似更新(10/1)
+  ![alt text](image_stone.png)
+  ![alt text](image_stone2.png)
+  ![alt text](image_crystal.png)
 
 # UI重新设计(9/3)
 - 队友条
@@ -17,7 +21,7 @@
   ![alt text](image_manaBar.png)
 - 生命条
   ![alt text](image_healthBar.png)
-- 玩家UI
+- 玩家UI(9/19)
   ![alt text](image_playerUI.png)
 - Boss血条,每个Boss都有自己的血条
   + 女皇
@@ -38,6 +42,11 @@
     ![alt text](image_ceaselessVoidBar.png)
   + 克眼
     ![alt text](image_EoCBar.png)
+
+# 图鉴
+- YuH给生物图鉴中的蠕虫增加了动画(9/27)
+  ![alt text](image_wormy12.gif)
+  ![alt text](image_wormy14.gif)
 
 # 工具
 - 计划给宇宙锭和金源锭设计工具(9/2)

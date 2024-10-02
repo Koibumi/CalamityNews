@@ -4,5 +4,7 @@
 ![alt text](image_sulfurSeaBackground.png)
 
 ## 生物
-- Triangle捣碎鳄(9/23)
-  ![alt text](imgae_trasher.png)
+- Triangle的硫磺海生物(9/30)
+  ![alt text](image_sulphurSeaCreatures.png)
+- 天鳍鱼+腐蚀蛙的组合技(10/1)
+  ![alt text](ToadbirdAnimation-export.gif)

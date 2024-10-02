@@ -18,5 +18,5 @@
   ![alt text](text_nuisances.png)
 - 荒灾的手动生成会改成字面意义上的钓起来(9/6)
   ![alt text](text_DSSpawn.png)
-- 三角可能再考虑一下荒灾的颜色(9/5)
-  ![alt text](text_DSColor.png)
+- 三角可能会调整荒灾的脸部,质感和颜色(10/1)
+  ![alt text](text_DS2.jpg)
