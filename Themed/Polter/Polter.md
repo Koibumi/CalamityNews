@@ -16,3 +16,5 @@
 # 概念艺术
 - (8/9)
   ![alt text](image_polterConcept.png)
+- Cristian Mihaii绘制的概念图(10/1)
+  ![alt text](image_polterConceptMihaii.jpg)

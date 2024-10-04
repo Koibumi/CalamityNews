@@ -22,9 +22,13 @@
 - Kapparoach的作品Incarnomasa(化刃村正)`记住,这些武器不仅仅是硬件,它们有生命`(10/3)
   ![alt text](image_incarnomasa.png)
   还有很酷的音效!<audio controls src="IncarnomasaSounds.wav"></audio>
-- Mastema的作品Mura-Zen(村Zen)`光而后虚无,虚无而后力量`(10/3)
+- Mastema的作品Mura-Zen(鬼妖禅正(星星译))`光而后虚无,虚无而后力量`(10/3)
   ![alt text](Mastema-showcase-export.gif)
   ![alt text](Mastema-Murasama_Contestea.gif)
 - Decrypt的作品Kusarisama(锁链村正)`异端.禁忌的武器融合`(10/3)
   ![alt text](Decrypt-Murasama_Contest_previw.gif)
   ![alt text](Decrypt-Murasama_swcs.gif)
+- Aureus的作品The Celestial(星界)(10/4)
+  `前行吧，小星辰，斩破苍穹，撕裂大地；以始源之光斩尽一切阻碍，无论是不朽的怪物、废墟之残羽，亦或是高悬的群星。`
+  ![alt text](Aureus-Untitled8_20241004010456.webp)
+  ![alt text](Aureus-ContestSword.gif)

@@ -13,6 +13,9 @@
   ![alt text](image_stone.png)
   ![alt text](image_stone2.png)
   ![alt text](image_crystal.png)
+- Cristian绘制的相关概念图(10/3)
+  ![alt text](image_crystalBeast.png)
+  ![alt text](image_crystalDress.png)
 
 # UI重新设计(9/3)
 - 队友条

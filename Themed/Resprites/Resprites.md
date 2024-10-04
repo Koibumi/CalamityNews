@@ -21,3 +21,7 @@
   ![alt text](image_elemental.png)
 - Triangle为湮灭千星绘制的新贴图(9/23)
   ![alt text](image_elementalBow.png)
+
+## 其他
+- Heart绘星河之刃(10/4)
+  ![alt text](Galactus.png)
