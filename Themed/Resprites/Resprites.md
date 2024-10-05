@@ -24,4 +24,4 @@
 
 ## 其他
 - Heart绘星河之刃(10/4)
-  ![alt text](Galactus.png)
+  ![alt text](image_galactus.png)
