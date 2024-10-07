@@ -21,7 +21,15 @@
 - T1生物的武器(10/3)
   ![alt text](text_weaponsP1.png)
 - 老核弹一家,左下是新的硫磺猪龙(10/5)
-  ![alt text](image.png)
+  ![alt text](image_fishron.png)
+- 包括硫磺猪龙,渊海狂鲨的概念图(10/6)
+  ![alt text](image_mauler.png)
+- 疑似酸水鳗(10/7)
+  ![alt text](image_eel.png)
+- 高口蟹动图(10/7)
+  ![alt text](crabogif.gif)
+- 酸雨1阶部分小怪(10/6)
+  ![alt text](froggy1.gif)
 
 
 ## 酸雨

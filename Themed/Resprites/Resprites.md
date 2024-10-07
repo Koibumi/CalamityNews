@@ -25,3 +25,5 @@
 ## 其他
 - Heart绘星河之刃(10/4)
   ![alt text](image_galactus.png)
+- Cristian Mihaii的碎水霰弹枪概念图(9/29)
+  ![alt text](image_aquashard.png)

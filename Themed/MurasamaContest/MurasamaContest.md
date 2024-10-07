@@ -8,7 +8,7 @@
   ![alt text](image_onisama.png)
 - healthy23的作品Fansama`最好的游戏助手,现在变成了一把剑!`(10/2)
   ![alt text](image_fansama.png)
-- Pengolin, Fire Devourer的作品Necromancer's Hand(死灵术士之手)`与汝共变生`(10/2)
+- Pengolin, Fire Devourer的作品Muramancer's Hand(死灵术士之手)`即使大天使也难逃变成骷髅的风险`(10/2)
   ![alt text](Murasama_Contest_Pengolin_showcase.gif)
 - ʆ੮૯૦Һ的作品Samamura(正村妖鬼)(10/2)
   ```
