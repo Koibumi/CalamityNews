@@ -21,3 +21,9 @@
 - 老猪的掉落物"猎龙者"系列将针对犽戎(9/11)  
   其中猎龙者套将会取代血炎盗贼套
   ![alt text](text_dragonHunter.jpg)
+- Cristian Mihaii绘制的老猪概念图(10/8)
+  ![alt text](image_oldDukeConcept.jpg)
+- 三角设定,非官设,老猪曾居住在更冷的地方,并是掌管冷冻的龙,只是因为没有更多的金源魄,才没有成为真正的金源龙,当猎龙开始时,老猪决定冻结整个世界,结束人和神的时代,但是它失败了(10/9)
+  ![alt text](text_ODLore.png)
+  ![alt text](text_ODLore2.png)
+  ![alt text](text_ODLore3.png)

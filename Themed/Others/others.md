@@ -55,6 +55,12 @@
 - 计划给宇宙锭和金源锭设计工具(9/2)
   ![alt text](text_tools.png)
 
+# 未知
+- YuH对石约胜利之剑作了未知改动(10/8)
+  ![alt text](image_rox.png)
+
 # 其他更新计划
 - 沉沦海完成后可能会有永恒和亵渎迷你群落(9/21)
   ![alt text](text_minibiome.png)
+- Triangle未来会给灾厄本体添加更多虚荣内容,其中他更倾向于大师模式特殊掉落(10/9)
+  ![alt text](text_vanity.jpg)
