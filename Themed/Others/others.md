@@ -59,6 +59,14 @@
 - YuH对石约胜利之剑作了未知改动(10/8)
   ![alt text](image_rox.png)
 
+# 永恒系列
+- 永恒矿将不再是矿物,且会有专门的子群落Floral Paradise(10/13)
+  ![alt text](text_perennial.png)
+- 这个子群落还会有一种新的树木(10/13)
+  ![alt text](text_perennialTree.png)
+- 掠夺者套将成为一种宝石和木材的混合(10/13)
+  ![alt text](text_reaver.png)
+
 # 其他更新计划
 - 沉沦海完成后可能会有永恒和亵渎迷你群落(9/21)
   ![alt text](text_minibiome.png)

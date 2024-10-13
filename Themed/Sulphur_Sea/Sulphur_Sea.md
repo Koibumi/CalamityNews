@@ -31,9 +31,10 @@
   - 捣碎鳄:坐骑
   - 峭咽潭:史莱姆宠物
   - Beelzebufo:坐骑
-  - 渊海狂鲨:宠物
+  - 渊海狂鲨:宠物(10/12)
   - 辐核骇兽:照明宠物
   ![alt text](text_masterMiniBoss.png)
+  ![alt text](image_maulerPet.png)
 
 ## 酸雨
 ### 一阶(10/2) ###

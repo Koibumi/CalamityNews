@@ -1,5 +1,5 @@
-# 剧毒史莱姆?(9/3)
-- 可能会是小boss
+-  剧毒史莱姆?(9/3)
+  可能会是小boss
   ![alt text](image_virulentSlime.png)
 - ?
   ![alt text](image_virulentSpiky.png)
@@ -17,3 +17,5 @@
   ![alt text](text_yharon2.jpg)
   enamoured(犽戎的动画师)认为不应当在这一次更新放出(主题不符等)  
   ![alt text](text_yharon3.jpg)
+- Xyk称矿物史莱姆都会被其他矿物主题的敌怪取代(类似宝石爬虫的改动?)(10/13)
+  ![alt text](text_oreSlime.png)
