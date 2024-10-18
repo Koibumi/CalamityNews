@@ -47,7 +47,5 @@
   ![alt text](text_consumable.jpg)
 - Xyk正在着手星河之刃,而且以后有可能彻底消灭真近战(10/8)
   ![alt text](text_galactus.jpg)
-- CIT爆料出宙虹,光棱破碎者,smsl,沸腾之火,变压器已经得到重做(10/9)
-  ![alt text](image_cit.png)
 - 目前已知重做列表(10/9)
   ![alt text](image_reworkList.png)
