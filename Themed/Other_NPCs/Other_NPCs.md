@@ -19,3 +19,6 @@
   ![alt text](text_yharon3.jpg)
 - Xyk称矿物史莱姆都会被其他矿物主题的敌怪取代(类似宝石爬虫的改动?)(10/13)
   ![alt text](text_oreSlime.png)
+- 海王将会随着世界生成在沉沦海的一个神殿中,并需要通过一个支线任务来解锁他作为城镇NPC的功能,类似于服装商(10/21)
+  ![alt text](text_amidias.png)
+  ![alt text](text_amidias2.png)

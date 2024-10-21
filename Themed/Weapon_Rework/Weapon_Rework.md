@@ -49,3 +49,7 @@
   ![alt text](text_galactus.jpg)
 - 目前已知重做列表(10/9)
   ![alt text](image_reworkList.png)
+- 新的捐赠者武器,据悉是基于《火翼飞龙》系列(动图左上)(10/18)
+  ![alt text](text_wingsOfFireItem.png)
+  ![alt text](../SSO/calamityanimshowcase.gif)
+- AngelVA公开了硫酸炮的重做(10/19)

@@ -21,8 +21,11 @@
 - 风暴蚁狮将会有四种变种，分别对应四种蚁狮变种
   ![风暴蚁狮聊天](text_antlion.png)
 ## 海岸生物
-- 螃蟹商人/拾荒者,可用珍珠交换来自已死亡战士的战利品
+- 拾荒蟹,可用珍珠交换来自已死亡战士的战利品
   ![Scavengers聊天](text_scavenger.png)
+- 拾荒蟹(Scavenger)的动画,由Dandy制作(10/19)
+  ![alt text](crab.gif)
+- YuH发布了拾荒蟹的演示视频,可以看到它类似MC的猪灵,是以物易物的机制,而非常规的商人(10/20)
 - 其他生物:Mirage Newt(制造蜃气的蝾螈?) Pumper Prawn(超大肉食虾?)(9/2)
   ![alt text](text_shoreCreatures.png)
 
@@ -40,7 +43,9 @@
   ![alt text](elfiishe.gif)
 - 疑似是沉沦海的新敌怪(9/18)
   ![alt text](image_fatFish.png)
-
+## 动画
+- 动画师enamoured放出了一些沉沦海生物的动画(左下)(10/18)
+  ![alt text](calamityanimshowcase.gif)
 
 # 敌人
 ## 不死战士(the shores)
